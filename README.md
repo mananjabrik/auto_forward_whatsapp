@@ -1,7 +1,7 @@
 # auto_forward_whatsapp
 
 create file friend_number.json with format 
-shell``
+``
  {
  "friendNumber": [
     "friendNumber@c.us",
