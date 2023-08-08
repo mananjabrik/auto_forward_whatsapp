@@ -1,0 +1,4 @@
+/node_modules
+.env
+friend_numbers.json
+.wwebjs_cache
