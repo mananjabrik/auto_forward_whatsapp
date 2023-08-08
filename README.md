@@ -1,6 +1,6 @@
 # auto_forward_whatsapp
 
-create file friend_number.json with format 
+create file friend_numbers.json with format 
 ```shell
  {
  "friendNumber": [
