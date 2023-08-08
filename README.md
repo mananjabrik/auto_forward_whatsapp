@@ -11,5 +11,6 @@ create file friend_number.json with format
   ]
 }
 ``
-
+```shell
 npm nodemon index.js
+```
