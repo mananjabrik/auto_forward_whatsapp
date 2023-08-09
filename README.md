@@ -12,5 +12,5 @@ create file friend_numbers.json with format
 }
 ```
 ```shell
-npm nodemon index.js
+pnpm go-sleep
 ```
