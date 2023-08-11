@@ -20,6 +20,7 @@ client.on("ready", ()=>{
 })
 
 client.on('message', (msg) =>{
+    console.log({from:msg.from, body: msg.body})
     if(msg.type === 'call_log' && msg.from === URGEN){
         msg.reply(DIRECT_MESSAGE_TO_CALLER)
         const interval = setInterval(() => {
