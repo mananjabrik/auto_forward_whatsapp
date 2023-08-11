@@ -11,6 +11,15 @@ create file friend_numbers.json with format
   ]
 }
 ```
+
+need nodemon
+
 ```shell
-pnpm go-sleep
+npm install -g nodemon
+```
+
+
+```shell
+npm install
+npm run go-sleep
 ```
